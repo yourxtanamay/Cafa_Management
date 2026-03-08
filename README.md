@@ -99,10 +99,5 @@ This project was created to demonstrate:
 ---
 
 ## 👨‍💻 Author
-
-**Tanmay Paul**
-
-* Aspiring Data Science & Python Developer
-* From Jamshedpur, Jharkhand, India
-
+Tanmay Paul Diploma in Computer Science Engineering Student 
 ---
